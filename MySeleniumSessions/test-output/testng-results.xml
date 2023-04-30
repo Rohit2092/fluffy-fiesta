@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+      <class name="testngsessions.ApplicationTest">
+        <test-method status="PASS" signature="connectwithDB()[pri:0, instance:testngsessions.ApplicationTest@7a187f14]" name="connectwithDB" is-config="true" duration-ms="10" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectwithDB -->
+        <test-method status="PASS" signature="createUser()[pri:0, instance:testngsessions.ApplicationTest@7a187f14]" name="createUser" is-config="true" duration-ms="0" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testngsessions.ApplicationTest@7a187f14]" name="login" is-config="true" duration-ms="0" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="cartPageTest()[pri:0, instance:testngsessions.ApplicationTest@7a187f14]" name="cartPageTest" duration-ms="10" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartPageTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testngsessions.ApplicationTest@7a187f14]" name="logout" is-config="true" duration-ms="1" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testngsessions.ApplicationTest@7a187f14]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:testngsessions.ApplicationTest@7a187f14]" name="deleteUser" is-config="true" duration-ms="0" started-at="2023-04-18T14:04:31 IST" finished-at="2023-04-18T14:04:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="disconnectWithDB()[pri:0, instance:testngsessions.ApplicationTest@7a187f14]" name="disconnectWithDB" is-config="true" duration-ms="2" started-at="2023-04-18T14:04:36 IST" finished-at="2023-04-18T14:04:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectWithDB -->
+      </class> <!-- testngsessions.ApplicationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
